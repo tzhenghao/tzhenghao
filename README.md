@@ -2,8 +2,6 @@
 
 Me in a few words...
 
-Founder / CEO of [Cellulose](https://www.cellulose.ai)
-
 🔗 Links
 - [Personal Website](https://zhenghaotan.com)
 - [Twitter](https://twitter.com/zhenghaooo)
@@ -11,10 +9,11 @@ Founder / CEO of [Cellulose](https://www.cellulose.ai)
 - [Product Hunt](https://www.producthunt.com/@zhenghaooo)
 
 🔭 Currently working on...
-- Cellulose 🌱
+- AI Framework Engineer @ Modular
 
 🔖 Formerly...
 
+- Founder / CEO of [Cellulose](https://www.cellulose.ai) 🌱
 - Co-founder / CTO @ Lexer (YC S22) 🍊
 - Senior machine learning engineer @ Cruise 🏎️
 - Software engineer @ Drive.ai (acquired by Apple) 🍎
