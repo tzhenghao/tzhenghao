@@ -17,7 +17,7 @@ Me in a few words...
 - Co-founder / CTO @ Lexer (YC S22) 🍊
 - Senior machine learning engineer @ Cruise 🏎️
 - Software engineer @ Drive.ai (acquired by Apple) 🍎
-- Software engineer @ Hologram
+- Software engineer @ [Hologram](https://www.hologram.io)
 
 🤖 Loves working on...
 
