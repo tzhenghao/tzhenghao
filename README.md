@@ -15,7 +15,7 @@ Me in a few words...
 
 - Founder / CEO of [Cellulose](https://www.cellulose.ai) 🌱
 - Co-founder / CTO @ Lexer (YC S22) 🍊
-- Senior Machine Learning engineer @ Cruise 🏎️
+- Senior Machine Learning engineer @ [Cruise](https://getcruise.com) 🏎️
 - Software engineer @ Drive.ai (acquired by Apple) 🍎
 - Software engineer / early employee @ [Hologram](https://www.hologram.io)
 
